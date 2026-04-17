@@ -8,7 +8,8 @@ This repository contains the code to implement the reported results in our paper
 #### Contents
  
 * *Python (.ipynb) scripts*:
-  - Code used for main results can be found in the <code>results</code> folder.
+  - Code used for main results can be found in the <code>code</code> 
+folder.
 
 * *Data*:
   - All data can be found in the <code>data</code> folder. 
